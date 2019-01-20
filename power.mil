@@ -1,0 +1,7 @@
+BEGIN
+	FOR I:=5 ; I <= 15
+	DO
+	I:=I+1;
+	WRITE(I)
+	OD
+END
